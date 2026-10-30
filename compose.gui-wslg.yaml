@@ -1,0 +1,12 @@
+# Use this file on Windows WSLg or Linux with X11/Wayland forwarding
+# Run: docker compose -f compose.yaml -f compose.gui-wslg.yaml up
+services:
+  ros:
+    environment:
+      DISPLAY: ${DISPLAY:-:0}
+      WAYLAND_DISPLAY: ${WAYLAND_DISPLAY:-}
+      XDG_RUNTIME_DIR: /tmp/runtime-ros
+      LIBGL_ALWAYS_SOFTWARE: "0"
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      - /mnt/wslg:/mnt/wslg:ro

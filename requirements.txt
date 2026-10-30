@@ -1,0 +1,5 @@
+# Python dependencies for TURTLE SI scripts (outside of ROS)
+# Install with: pip install -r requirements.txt
+# (Most deps are handled by the Docker image — this is for host-side tooling)
+
+numpy>=1.24
