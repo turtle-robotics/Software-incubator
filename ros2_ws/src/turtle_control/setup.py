@@ -19,8 +19,12 @@ setup(
     tests_require=["pytest"],
     entry_points={
         "console_scripts": [
-            "drive_turtle = turtle_control.drive_turtle:main",
-            "arm_control  = turtle_control.arm_control:main",
+            "drive_turtle    = turtle_control.drive_turtle:main",
+            "arm_control     = turtle_control.arm_control:main",
+            "keyboard_teleop = turtle_control.keyboard_teleop:main",
+            "leader_bridge   = turtle_control.leader_bridge:main",
+            "sim_recorder         = turtle_control.sim_recorder:main",
+            "arm_keyboard_teleop  = turtle_control.arm_keyboard_teleop:main",
         ],
     },
 )
