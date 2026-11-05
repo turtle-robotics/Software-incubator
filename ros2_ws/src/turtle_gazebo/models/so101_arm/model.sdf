@@ -18,7 +18,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/base_motor_holder_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/base_motor_holder_so101_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -27,7 +27,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/base_so101_v2.stl</uri>
+            <uri>model://so101_arm/assets/base_so101_v2.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -36,7 +36,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -45,7 +45,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/waveshare_mounting_plate_so101_v2.stl</uri>
+            <uri>model://so101_arm/assets/waveshare_mounting_plate_so101_v2.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -54,7 +54,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/base_motor_holder_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/base_motor_holder_so101_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -67,7 +67,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/base_so101_v2.stl</uri>
+            <uri>model://so101_arm/assets/base_so101_v2.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -80,7 +80,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -93,7 +93,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/waveshare_mounting_plate_so101_v2.stl</uri>
+            <uri>model://so101_arm/assets/waveshare_mounting_plate_so101_v2.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -139,7 +139,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -148,7 +148,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/motor_holder_so101_base_v1.stl</uri>
+            <uri>model://so101_arm/assets/motor_holder_so101_base_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -157,7 +157,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/rotation_pitch_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/rotation_pitch_so101_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -166,7 +166,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -179,7 +179,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/motor_holder_so101_base_v1.stl</uri>
+            <uri>model://so101_arm/assets/motor_holder_so101_base_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -192,7 +192,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/rotation_pitch_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/rotation_pitch_so101_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -238,7 +238,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -247,7 +247,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/upper_arm_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/upper_arm_so101_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -256,7 +256,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -269,7 +269,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/upper_arm_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/upper_arm_so101_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -315,7 +315,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/under_arm_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/under_arm_so101_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -324,7 +324,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/motor_holder_so101_wrist_v1.stl</uri>
+            <uri>model://so101_arm/assets/motor_holder_so101_wrist_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -333,7 +333,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -342,7 +342,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/under_arm_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/under_arm_so101_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -355,7 +355,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/motor_holder_so101_wrist_v1.stl</uri>
+            <uri>model://so101_arm/assets/motor_holder_so101_wrist_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -368,7 +368,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -414,7 +414,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_no_horn_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_no_horn_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -423,7 +423,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/wrist_roll_pitch_so101_v2.stl</uri>
+            <uri>model://so101_arm/assets/wrist_roll_pitch_so101_v2.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -432,7 +432,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_no_horn_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_no_horn_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -445,7 +445,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/wrist_roll_pitch_so101_v2.stl</uri>
+            <uri>model://so101_arm/assets/wrist_roll_pitch_so101_v2.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -491,7 +491,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -500,7 +500,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/wrist_roll_follower_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/wrist_roll_follower_so101_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -509,7 +509,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/sts3215_03a_v1.stl</uri>
+            <uri>model://so101_arm/assets/sts3215_03a_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -522,7 +522,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/wrist_roll_follower_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/wrist_roll_follower_so101_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -568,7 +568,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/moving_jaw_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/moving_jaw_so101_v1.stl</uri>
           </mesh>
         </geometry>
       </collision>
@@ -577,7 +577,7 @@
         <geometry>
           <mesh>
             <scale>1 1 1</scale>
-            <uri>/home/ros/so101_sim/assets/moving_jaw_so101_v1.stl</uri>
+            <uri>model://so101_arm/assets/moving_jaw_so101_v1.stl</uri>
           </mesh>
         </geometry>
         <material>
