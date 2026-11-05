@@ -90,7 +90,6 @@ def generate_launch_description():
         cmd=[
             FindExecutable(name='gz'),
             'sim',
-            '--ros-args',                 # pass ROS args through
             WORLD_SDF,
             # '--headless-rendering' is omitted — added only when gz_gui is false below
         ],
@@ -167,7 +166,7 @@ def generate_launch_description():
                 executable='arm_keyboard_teleop',
                 name='arm_keyboard_teleop',
                 output='screen',
-                prefix='xterm -e',         # open in its own terminal so it gets stdin
+                prefix='xterm ' ',         # open in its own terminal so it gets stdin
                 condition=IfCondition(
                     PythonExpression(["'", mode, "' == 'keyboard'"])
                 ),
@@ -203,3 +202,4 @@ def generate_launch_description():
         keyboard_node,
         leader_node,
     ])
+
