@@ -18,7 +18,7 @@ setup(
         (f"share/{package_name}/models/so101_arm",
             glob("models/so101_arm/*")),
         (f"share/{package_name}/models/so101_arm/assets",
-            glob("models/so101_arm/assets/*")),
+            glob("models/so101_arm/assets/*.stl")),
     ],
     install_requires=["setuptools"],
     zip_safe=True,
