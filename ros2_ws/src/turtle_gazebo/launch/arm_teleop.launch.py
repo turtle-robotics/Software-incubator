@@ -166,7 +166,7 @@ def generate_launch_description():
                 executable='arm_keyboard_teleop',
                 name='arm_keyboard_teleop',
                 output='screen',
-                prefix='',
+                prefix='xterm -e ',
                 condition=IfCondition(
                     PythonExpression(["'", mode, "' == 'keyboard'"])
                 ),
@@ -201,6 +201,7 @@ def generate_launch_description():
         keyboard_node,
         leader_node,
     ])
+
 
 
 
