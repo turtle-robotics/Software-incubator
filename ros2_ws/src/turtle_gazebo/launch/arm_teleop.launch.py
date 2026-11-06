@@ -198,8 +198,8 @@ def generate_launch_description():
         gz_sim,
         gz_sim_headless,
         ros_gz_bridge,
-        spawn_arm,
         keyboard_node,
         leader_node,
     ])
+
 
