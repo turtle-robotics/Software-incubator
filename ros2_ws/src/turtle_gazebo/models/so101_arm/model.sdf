@@ -1,5 +1,6 @@
 <sdf version='1.11'>
   <model name='so101_new_calib'>
+    <static>true</static>
     <link name='base_link'>
       <inertial>
         <pose>0.0137179 -5.1971100000000001e-05 0.033484300000000002 0 0 0</pose>
@@ -613,6 +614,7 @@
   <plugin filename="gz-sim-joint-position-controller-system" name="gz::sim::systems::JointPositionController"><joint_name>gripper</joint_name><topic>/so101/gripper</topic><p_gain>5</p_gain><i_gain>0.01</i_gain><d_gain>0.1</d_gain></plugin>
 </model>
 </sdf>
+
 
 
 
